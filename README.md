@@ -28,3 +28,5 @@ Sul, Sudeste, Centro-Oeste, Nordeste e Norte
 - `manifest.json` — configuração PWA
 - `sw.js` — service worker (cache offline)
 - `database/schema.sql` — estrutura do banco
+
+Deploy conectado ao GitHub em 20/07/2026.
