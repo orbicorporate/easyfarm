@@ -30,3 +30,5 @@ Sul, Sudeste, Centro-Oeste, Nordeste e Norte
 - `database/schema.sql` — estrutura do banco
 
 Deploy conectado ao GitHub em 20/07/2026.
+
+Atualizado em 22/07/2026 - clima e notas na home.
